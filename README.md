@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdul Wahid.
+- 👀 I’m interested in data science and web development.
+- 🌱 I’m currently learning "BACHELOR OF COMPUTER APPLICATIONS".
+- 📫 How to reach me e-mail id = abdulwahid65742@gmail.com.
